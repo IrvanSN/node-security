@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "position": "Lt 1 Range 1 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C0:B6:51",
+      "06:05:88:9B:3E:74",
+      "06:05:88:C0:B6:52",
+      "06:05:88:9B:3E:75",
+      "06:05:88:C0:B7:FA"
+    ]
+  },
+  {
+    "id": 2,
+    "position": "Lt 1 Range 2 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C0:B8:21",
+      "06:05:88:C0:B8:61",
+      "92:85:C4:CE:0D:0A",
+      "06:05:88:C0:B8:22",
+      "06:05:88:C0:B8:62",
+      "A2:85:C4:CE:0D:0B"
+    ]
+  },
+  {
+    "id": 3,
+    "position": "Lt 1 Range 3 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C0:B8:09",
+      "12:85:C4:D2:24:82",
+      "06:05:88:C0:B8:0D",
+      "22:85:C4:D2:24:83"
+    ]
+  },
+  {
+    "id": 4,
+    "position": "Lt 1 Range 4 (Tengah)",
+    "image": "",
+    "addresses": [
+      "06:05:88:BE:EA:AF",
+      "06:05:88:BE:EA:B0"
+    ]
+  },
+  {
+    "id": 5,
+    "position": "Lt 1 Range 5 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C0:B7:69",
+      "22:85:C4:D2:25:13",
+      "06:05:88:C0:B7:6A",
+      "32:85:C4:D2:25:14",
+      "06:05:88:9B:3E:6D",
+      "06:05:88:BE:EA:C3"
+    ]
+  },
+  {
+    "id": 6,
+    "position": "Lt 1 Range 6 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "22:85:C4:CE:05:F3",
+      "32:85:C4:CE:05:F4",
+      "06:05:88:C0:B6:E9",
+      "06:05:88:9B:3E:6C",
+      "06:05:88:C0:B6:EA",
+      "D2:85:C4:D2:24:BE"
+    ]
+  },
+  {
+    "id": 7,
+    "position": "Lt 1 Range 7 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "C2:85:C4:D2:23:3D",
+      "06:05:88:C0:B8:65",
+      "06:05:88:C0:B8:66",
+      "06:05:88:C0:B7:7D",
+      "D2:85:C4:D2:23:3E",
+      "06:05:88:C0:B7:7E",
+      "E2:85:C4:D2:24:BF",
+      "06:05:88:BE:EA:93"
+    ]
+  },
+  {
+    "id": 8,
+    "position": "Lt 2 Range 1 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C0:B9:15",
+      "62:85:C4:D3:DF:97",
+      "52:85:C4:D3:DF:96",
+      "06:05:88:C0:B6:91",
+      "06:05:88:C0:B9:16"
+    ]
+  },
+  {
+    "id": 9,
+    "position": "Lt 2 Range 2 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:BE:EA:CB",
+      "9E:2B:A6:71:5E:DA",
+      "B2:85:C4:D3:DF:8C",
+      "DE:2B:A6:71:5E:FE"
+    ]
+  },
+  {
+    "id": 10,
+    "position": "Lt 2 Range 3 (Sayap Kanan)",
+    "image": "",
+    "addresses": [
+      "06:05:88:BE:EA:F3",
+      "C2:85:C4:D3:DF:8D",
+      "06:05:88:BE:EB:27",
+      "CE:2B:A6:71:5E:FD",
+      "06:05:88:C0:B8:C9",
+      "06:05:88:BE:EA:CC",
+      "06:05:88:C0:B8:CA",
+      "06:05:88:BE:EB:28"
+    ]
+  },
+  {
+    "id": 11,
+    "position": "Lt 2 Range 4 (Tengah)",
+    "image": "",
+    "addresses": [
+      "06:05:88:BE:EA:EB",
+      "06:05:88:BE:EA:EC",
+      "06:74:9C:EB:AD:C9",
+      "06:74:9C:EB:AD:C8",
+      "06:74:9C:EB:AD:7C",
+      "06:05:88:3B:B8:B1",
+      "06:05:88:3B:B8:B2"
+    ]
+  },
+  {
+    "id": 12,
+    "position": "Lt 2 Range 5 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "06:05:88:BE:EA:DB",
+      "5E:2B:A6:71:5F:26",
+      "4E:2B:A6:71:5F:25",
+      "06:05:88:BE:EA:03",
+      "62:85:C4:D3:DF:37",
+      "06:05:88:BE:EA:04",
+      "06:05:88:BE:EA:DC",
+      "06:74:9C:EB:AD:7D"
+    ]
+  },
+  {
+    "id": 13,
+    "position": "Lt 2 Range 6 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "76:70:AB:69:F8:98",
+      "DE:2B:A6:71:5E:EE",
+      "06:05:88:C0:B8:B9",
+      "06:05:88:C8:FF:79",
+      "86:70:AB:69:F8:99",
+      "EE:2B:A6:71:5E:EF",
+      "06:05:88:C0:95:FD",
+      "72:85:C4:D3:DF:38",
+      "06:05:88:C8:FF:7A",
+      "06:05:88:C0:B8:BA",
+      "06:05:88:C0:95:FE"
+    ]
+  },
+  {
+    "id": 14,
+    "position": "Lt 2 Range 7 (Sayap Kiri)",
+    "image": "",
+    "addresses": [
+      "06:05:88:C8:FA:D1",
+      "06:05:88:C8:FA:D2",
+      "06:05:88:C0:B1:FD",
+      "06:05:88:C0:B1:FE"
+    ]
+  },
+  {
+    "id": 15,
+    "position": "Rooftop",
+    "image": "",
+    "addresses": [
+      "06:05:88:9B:3E:5C",
+      "06:05:88:9B:3E:5D"
+    ]
+  },
+  {
+    "id": 16,
+    "position": "Lt 3 Tengah",
+    "image": "",
+    "addresses": [
+      "06:05:88:C8:FB:1E",
+      "06:05:88:C0:B9:1A",
+      "06:05:88:C8:FA:D6"
+    ]
+  },
+  {
+    "id": 17,
+    "position": "Lt 3 Kiri",
+    "image": "",
+    "addresses": [
+      "06:05:88:3B:83:45",
+      "06:05:88:3B:77:11",
+      "06:05:88:C8:FA:D5"
+    ]
+  },
+  {
+    "id": 18,
+    "position": "Lt 3 Kanan",
+    "image": "",
+    "addresses": [
+      "06:74:9C:EB:AE:78",
+      "06:05:88:C0:B9:19",
+      "22:85:C4:D2:24:23",
+      "06:05:88:C0:B9:11",
+      "06:05:88:C8:FB:1D"
+    ]
+  },
+  {
+    "id": 19,
+    "position": "Depan R. Logistik",
+    "image": "",
+    "addresses": [
+      "06:05:88:C8:FB:06",
+      "06:05:88:C8:FB:05"
+    ]
+  },
+  {
+    "id": 20,
+    "position": "Depan R. Dos. RPL",
+    "image": "",
+    "addresses": [
+      "06:05:88:C8:FA:F1",
+      "06:05:88:9B:3E:30",
+      "06:05:88:C8:FA:F2",
+      "06:05:88:C8:FA:FD",
+      "06:05:88:9B:3E:31",
+      "06:05:88:C8:FA:FE"
+    ]
+  },
+  {
+    "id": 21,
+    "position": "Depan R. Dos. Teknik Logistik",
+    "image": "",
+    "addresses": [
+      "06:05:88:C8:FB:11",
+      "06:05:88:C8:FA:39",
+      "06:05:88:C8:F9:65",
+      "06:74:9C:64:A6:D2",
+      "06:05:88:C8:FA:3A",
+      "06:74:9C:64:A6:D3",
+      "06:05:88:C8:FB:12",
+      "06:05:88:C8:F9:66"
+    ]
+  },
+  {
+    "id": 22,
+    "position": "Depan R. Dos. Teknik Logistik",
+    "image": "",
+    "addresses": [
+      "06:74:9C:64:A5:8A",
+      "06:74:9C:64:A5:8B",
+      "06:05:88:13:9E:E3",
+      "06:05:88:13:9E:E4"
+    ]
+  }
+]
